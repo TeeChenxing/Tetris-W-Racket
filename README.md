@@ -3,7 +3,7 @@
   <br>
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://neurosciencenews.com/files/2023/05/ai-teetris-psychology-neurosicens.jpg" alt="Markdownify" width="200"></a>
   <br>
-  TETRIS
+  TETRIS 🕹️🧱👾🧩
   <br>
 </h1>
 
